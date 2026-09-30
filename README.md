@@ -26,3 +26,6 @@ Next steps I'd try: higher resolution, longer training with early stopping, clas
 
 ## Tech
 Python · TensorFlow/Keras · ResNet50 · VGG16 · Kaggle API · Google Colab
+
+## Write-Up
+- [Final presentation](docs/Final_Presentation.pdf) (team)
